@@ -1,0 +1,3 @@
+graft simple_chalk
+include .python-version build.py license.txt meta.py Pipfile* runTests.py
+global-exclude __pycache__/*

@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "7722acc7698c4de701449fddc2f1f2b7556b7f12dde71d54792b24cd6b86097c"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {},
+    "develop": {
+        "is-git-repo-clean": {
+            "hashes": [
+                "sha256:a9940e378fee2b1995819807a747951c78a855a37ffa936c631b9143ab0dbcf2"
+            ],
+            "index": "pypi",
+            "version": "==0.2.0"
+        }
+    }
+}
